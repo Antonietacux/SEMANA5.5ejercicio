@@ -7,7 +7,7 @@ function ActividadItem({ tituloActividad, duracion, etapaDidactica }) {
                 <span style={{ background: '#e0f2fe', color: '#0369a1', padding: '2px 8px', borderRadius: '4px', fontSize: '0.75em', fontWeight: 'bold' }}>{etapaDidactica}</span>
                 <h4 style={{ margin: '5px 0 0 0', color: '#1e293b', fontSize: '0.95em' }}>{tituloActividad}</h4>
             </div>
-            <span style={{ fontSize: '0.85em', color: '#64748b' }}>⏱️ {duracion}</span>
+            <span style={{ fontSize: '0.85em', color: '#326dc0' }}>⏱️ {duracion}</span>
         </div>
     );
 }
