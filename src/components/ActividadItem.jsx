@@ -14,3 +14,4 @@ function ActividadItem({ tituloActividad, duracion, etapaDidactica }) {
 
 
 export default ActividadItem;
+
